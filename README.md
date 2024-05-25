@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/866712993475461150)](https://discord.com/users/866712993475461150)
+
 <!--
 **headd1/headd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
